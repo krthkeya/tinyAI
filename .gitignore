@@ -1,0 +1,6 @@
+.DS_Store
+Qwen2.5-0.5B/
+quantizer.log
+inference.log
+llama.cpp/
+GGUF_Qwen2.5-0.5B/
